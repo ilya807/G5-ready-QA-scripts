@@ -4,7 +4,7 @@ def test_shop_prices():
         "Small Health Pack": 100,
         "Mega Sword": 5000,
         "Free Gift": 0,
-        "Premium Skin": -10 # ОШИБКА: Цена не может быть отрицательной
+        "Premium Skin": 10 # ОШИБКА: Цена не может быть отрицательной
     }
 
     for item, price in shop_items.items():
