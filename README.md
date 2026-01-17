@@ -1,4 +1,4 @@
-# G5 Games QA Automation Framework (Python)
+#  Games QA Automation Framework (Python)
 
 Тестовый проект по автоматизации игровых механик (Inventory, Economy) для симуляции реального рабочего процесса в геймдеве.
 
@@ -19,9 +19,3 @@
 3.  **Установить зависимости:** `pip install -r requirements.txt` (или `python3 -m pip install pytest --break-system-packages` на Mac)
 4.  **Запустить тесты:** `python3 -m pytest`
 
----
-
-**Твой следующий шаг:**
-Замени текст в файле `README.md` на этот, сделай финальный `git push` и можешь смело вставлять ссылку в резюме.
-
-Готов завтра провести **симуляцию собеседования** и подготовить ответы на 5 самых каверзных вопросов лида G5 по твоему коду?
