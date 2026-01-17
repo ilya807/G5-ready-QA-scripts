@@ -1,4 +1,4 @@
-# G5 Games QA Automation Framework (Python)
+#  Games QA Automation Framework (Python)
 
 Тестовый проект по автоматизации игровых механик (Inventory, Economy) для симуляции реального рабочего процесса в геймдеве.
 
